@@ -1,0 +1,52 @@
+station,part_no,description,unit_cost_usd,lead_time_days,current_rop,order_qty,on_hand
+BLR,P-SEAL-BL,Belt loader lift seal kit,120,21,1,4,2
+BLR,P-BELT-BL,Belt loader conveyor belt,640,30,1,2,0
+BLR,P-STRT-12V,"Starter motor, 12 V",380,14,3,3,3
+BLR,P-BRK-PBT,Pushback tug brake pad set,260,21,1,2,0
+BLR,P-HOSE-PBT,Pushback tug hydraulic hose,90,10,3,3,4
+BLR,P-PUMP-PBT,Pushback tug coolant pump,520,28,1,1,0
+BLR,P-AVR-GPU,GPU voltage regulator module,900,35,1,2,0
+BLR,P-CBL-GPU,400 Hz output cable,450,14,3,3,5
+BLR,P-STRT-24V,"Starter motor, 24 V",420,14,1,2,2
+BLR,P-SEAL-PS,Passenger steps lift seal kit,110,21,1,4,0
+BLR,P-TYRE-S,"Solid tyre, small GSE",150,10,6,10,10
+BLR,P-BATT-12V,"Battery, 12 V",140,7,5,6,9
+BLR,P-BRK-BT,Baggage tractor brake set,180,14,1,3,3
+BLR,P-SEAL-CHL,High-loader scissor seal kit,160,28,1,2,2
+BLR,P-SENS-CHL,Platform proximity sensor,210,21,1,2,2
+BLR,P-RLY-ACU,ACU compressor relay,170,21,1,2,0
+BLR,P-DUCT-ACU,ACU supply duct hose,230,14,1,2,1
+HYD,P-SEAL-BL,Belt loader lift seal kit,120,21,1,4,3
+HYD,P-BELT-BL,Belt loader conveyor belt,640,30,1,2,1
+HYD,P-STRT-12V,"Starter motor, 12 V",380,14,3,3,4
+HYD,P-BRK-PBT,Pushback tug brake pad set,260,21,1,2,2
+HYD,P-HOSE-PBT,Pushback tug hydraulic hose,90,10,3,3,3
+HYD,P-PUMP-PBT,Pushback tug coolant pump,520,28,1,1,0
+HYD,P-AVR-GPU,GPU voltage regulator module,900,35,1,2,1
+HYD,P-CBL-GPU,400 Hz output cable,450,14,3,3,5
+HYD,P-STRT-24V,"Starter motor, 24 V",420,14,1,2,2
+HYD,P-SEAL-PS,Passenger steps lift seal kit,110,21,1,4,0
+HYD,P-TYRE-S,"Solid tyre, small GSE",150,10,6,10,7
+HYD,P-BATT-12V,"Battery, 12 V",140,7,5,6,7
+HYD,P-BRK-BT,Baggage tractor brake set,180,14,1,3,1
+HYD,P-SEAL-CHL,High-loader scissor seal kit,160,28,1,2,2
+HYD,P-SENS-CHL,Platform proximity sensor,210,21,1,2,2
+HYD,P-RLY-ACU,ACU compressor relay,170,21,1,2,2
+HYD,P-DUCT-ACU,ACU supply duct hose,230,14,1,2,0
+MAA,P-SEAL-BL,Belt loader lift seal kit,120,21,1,4,0
+MAA,P-BELT-BL,Belt loader conveyor belt,640,30,1,2,1
+MAA,P-STRT-12V,"Starter motor, 12 V",380,14,3,3,2
+MAA,P-BRK-PBT,Pushback tug brake pad set,260,21,1,2,0
+MAA,P-HOSE-PBT,Pushback tug hydraulic hose,90,10,3,3,5
+MAA,P-PUMP-PBT,Pushback tug coolant pump,520,28,1,1,1
+MAA,P-AVR-GPU,GPU voltage regulator module,900,35,1,2,0
+MAA,P-CBL-GPU,400 Hz output cable,450,14,3,3,3
+MAA,P-STRT-24V,"Starter motor, 24 V",420,14,1,2,1
+MAA,P-SEAL-PS,Passenger steps lift seal kit,110,21,1,4,3
+MAA,P-TYRE-S,"Solid tyre, small GSE",150,10,6,10,10
+MAA,P-BATT-12V,"Battery, 12 V",140,7,5,6,9
+MAA,P-BRK-BT,Baggage tractor brake set,180,14,1,3,0
+MAA,P-SEAL-CHL,High-loader scissor seal kit,160,28,1,2,0
+MAA,P-SENS-CHL,Platform proximity sensor,210,21,1,2,1
+MAA,P-RLY-ACU,ACU compressor relay,170,21,1,2,2
+MAA,P-DUCT-ACU,ACU supply duct hose,230,14,1,2,3

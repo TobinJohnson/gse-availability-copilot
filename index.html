@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GSE Availability Copilot</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@stlite/browser@1.12.1/build/stlite.css" />
+    <style>
+      #loading { font-family: system-ui, sans-serif; text-align: center; margin-top: 30vh; color: #555; }
+    </style>
+  </head>
+  <body>
+    <div id="root">
+      <p id="loading">Loading the GSE Availability Copilot… (Python starts in your browser, about 20–30 seconds)</p>
+    </div>
+    <script type="module">
+      // Runs the Streamlit app fully in the browser with stlite (Pyodide), so GitHub Pages can host it.
+      // No server and no API key: the copilot answers by retrieval from the procedures.
+      import { mount } from "https://cdn.jsdelivr.net/npm/@stlite/browser@1.12.1/build/stlite.js";
+
+      const sourceFiles = [
+        "app.py", "gse.py", "data_generator.py", "process_mining.py", "spares.py", "predict.py", "copilot.py",
+        "data/equipment.csv", "data/work_orders.csv", "data/parts.csv", "data/unit_weeks.csv",
+        "manuals/hydraulic_leak.md", "manuals/conveyor_belt.md", "manuals/engine_no_start.md",
+        "manuals/brakes.md", "manuals/gpu_output.md", "manuals/overheating.md", "manuals/tyres.md",
+        "manuals/acu.md", "manuals/platform_sensor.md",
+      ];
+      const files = Object.fromEntries(sourceFiles.map((path) => [path, { url: "./" + path }]));
+
+      mount(
+        {
+          requirements: ["pandas", "altair", "scikit-learn", "jinja2"],
+          entrypoint: "app.py",
+          files,
+          streamlitConfig: { "client.toolbarMode": "viewer" },
+        },
+        document.getElementById("root"),
+      );
+    </script>
+  </body>
+</html>

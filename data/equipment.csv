@@ -1,0 +1,301 @@
+unit_id,station,type_code,type_name,age_years,days_since_pm
+BLR-BL-001,BLR,BL,Belt loader,8,81
+BLR-BL-002,BLR,BL,Belt loader,4,88
+BLR-BL-003,BLR,BL,Belt loader,10,42
+BLR-BL-004,BLR,BL,Belt loader,3,57
+BLR-BL-005,BLR,BL,Belt loader,8,26
+BLR-BL-006,BLR,BL,Belt loader,10,30
+BLR-BL-007,BLR,BL,Belt loader,9,6
+BLR-BL-008,BLR,BL,Belt loader,11,58
+BLR-BL-009,BLR,BL,Belt loader,9,31
+BLR-BL-010,BLR,BL,Belt loader,9,15
+BLR-BL-011,BLR,BL,Belt loader,7,98
+BLR-BL-012,BLR,BL,Belt loader,1,57
+BLR-BL-013,BLR,BL,Belt loader,7,89
+BLR-BL-014,BLR,BL,Belt loader,5,5
+BLR-BL-015,BLR,BL,Belt loader,7,40
+BLR-BL-016,BLR,BL,Belt loader,12,72
+BLR-BL-017,BLR,BL,Belt loader,4,23
+BLR-BL-018,BLR,BL,Belt loader,7,61
+BLR-BL-019,BLR,BL,Belt loader,4,6
+BLR-BL-020,BLR,BL,Belt loader,3,83
+BLR-PBT-021,BLR,PBT,Pushback tug,6,14
+BLR-PBT-022,BLR,PBT,Pushback tug,2,3
+BLR-PBT-023,BLR,PBT,Pushback tug,10,21
+BLR-PBT-024,BLR,PBT,Pushback tug,10,56
+BLR-PBT-025,BLR,PBT,Pushback tug,3,32
+BLR-PBT-026,BLR,PBT,Pushback tug,14,22
+BLR-PBT-027,BLR,PBT,Pushback tug,12,88
+BLR-PBT-028,BLR,PBT,Pushback tug,7,58
+BLR-GPU-029,BLR,GPU,Ground power unit,1,54
+BLR-GPU-030,BLR,GPU,Ground power unit,5,69
+BLR-GPU-031,BLR,GPU,Ground power unit,5,13
+BLR-GPU-032,BLR,GPU,Ground power unit,3,84
+BLR-GPU-033,BLR,GPU,Ground power unit,10,32
+BLR-GPU-034,BLR,GPU,Ground power unit,12,29
+BLR-GPU-035,BLR,GPU,Ground power unit,5,21
+BLR-GPU-036,BLR,GPU,Ground power unit,2,42
+BLR-GPU-037,BLR,GPU,Ground power unit,11,19
+BLR-GPU-038,BLR,GPU,Ground power unit,10,44
+BLR-GPU-039,BLR,GPU,Ground power unit,6,9
+BLR-GPU-040,BLR,GPU,Ground power unit,12,48
+BLR-GPU-041,BLR,GPU,Ground power unit,6,14
+BLR-GPU-042,BLR,GPU,Ground power unit,14,7
+BLR-PS-043,BLR,PS,Passenger steps,10,6
+BLR-PS-044,BLR,PS,Passenger steps,10,61
+BLR-PS-045,BLR,PS,Passenger steps,12,66
+BLR-PS-046,BLR,PS,Passenger steps,14,70
+BLR-PS-047,BLR,PS,Passenger steps,1,11
+BLR-PS-048,BLR,PS,Passenger steps,4,67
+BLR-PS-049,BLR,PS,Passenger steps,5,23
+BLR-PS-050,BLR,PS,Passenger steps,11,48
+BLR-PS-051,BLR,PS,Passenger steps,11,35
+BLR-PS-052,BLR,PS,Passenger steps,6,88
+BLR-PS-053,BLR,PS,Passenger steps,7,32
+BLR-PS-054,BLR,PS,Passenger steps,4,46
+BLR-PS-055,BLR,PS,Passenger steps,4,9
+BLR-PS-056,BLR,PS,Passenger steps,12,67
+BLR-PS-057,BLR,PS,Passenger steps,5,4
+BLR-PS-058,BLR,PS,Passenger steps,6,81
+BLR-BT-059,BLR,BT,Baggage tractor,8,43
+BLR-BT-060,BLR,BT,Baggage tractor,14,42
+BLR-BT-061,BLR,BT,Baggage tractor,10,77
+BLR-BT-062,BLR,BT,Baggage tractor,1,28
+BLR-BT-063,BLR,BT,Baggage tractor,1,24
+BLR-BT-064,BLR,BT,Baggage tractor,13,2
+BLR-BT-065,BLR,BT,Baggage tractor,11,64
+BLR-BT-066,BLR,BT,Baggage tractor,5,27
+BLR-BT-067,BLR,BT,Baggage tractor,4,5
+BLR-BT-068,BLR,BT,Baggage tractor,9,26
+BLR-BT-069,BLR,BT,Baggage tractor,7,36
+BLR-BT-070,BLR,BT,Baggage tractor,2,53
+BLR-BT-071,BLR,BT,Baggage tractor,3,8
+BLR-BT-072,BLR,BT,Baggage tractor,7,71
+BLR-BT-073,BLR,BT,Baggage tractor,13,50
+BLR-BT-074,BLR,BT,Baggage tractor,11,15
+BLR-BT-075,BLR,BT,Baggage tractor,5,47
+BLR-BT-076,BLR,BT,Baggage tractor,5,63
+BLR-BT-077,BLR,BT,Baggage tractor,6,67
+BLR-BT-078,BLR,BT,Baggage tractor,1,68
+BLR-BT-079,BLR,BT,Baggage tractor,6,2
+BLR-BT-080,BLR,BT,Baggage tractor,12,73
+BLR-BT-081,BLR,BT,Baggage tractor,12,74
+BLR-BT-082,BLR,BT,Baggage tractor,9,88
+BLR-CHL-083,BLR,CHL,Catering high-loader,3,76
+BLR-CHL-084,BLR,CHL,Catering high-loader,5,81
+BLR-CHL-085,BLR,CHL,Catering high-loader,4,78
+BLR-CHL-086,BLR,CHL,Catering high-loader,9,58
+BLR-CHL-087,BLR,CHL,Catering high-loader,9,12
+BLR-CHL-088,BLR,CHL,Catering high-loader,9,75
+BLR-CHL-089,BLR,CHL,Catering high-loader,2,13
+BLR-CHL-090,BLR,CHL,Catering high-loader,9,52
+BLR-ACU-091,BLR,ACU,Air-conditioning unit,5,51
+BLR-ACU-092,BLR,ACU,Air-conditioning unit,7,15
+BLR-ACU-093,BLR,ACU,Air-conditioning unit,4,40
+BLR-ACU-094,BLR,ACU,Air-conditioning unit,3,66
+BLR-ACU-095,BLR,ACU,Air-conditioning unit,2,72
+BLR-ACU-096,BLR,ACU,Air-conditioning unit,10,75
+BLR-ACU-097,BLR,ACU,Air-conditioning unit,7,67
+BLR-ACU-098,BLR,ACU,Air-conditioning unit,4,26
+BLR-ACU-099,BLR,ACU,Air-conditioning unit,9,82
+BLR-ACU-100,BLR,ACU,Air-conditioning unit,14,18
+HYD-BL-001,HYD,BL,Belt loader,6,29
+HYD-BL-002,HYD,BL,Belt loader,4,15
+HYD-BL-003,HYD,BL,Belt loader,3,63
+HYD-BL-004,HYD,BL,Belt loader,14,5
+HYD-BL-005,HYD,BL,Belt loader,4,6
+HYD-BL-006,HYD,BL,Belt loader,2,53
+HYD-BL-007,HYD,BL,Belt loader,2,51
+HYD-BL-008,HYD,BL,Belt loader,9,12
+HYD-BL-009,HYD,BL,Belt loader,1,79
+HYD-BL-010,HYD,BL,Belt loader,8,28
+HYD-BL-011,HYD,BL,Belt loader,3,47
+HYD-BL-012,HYD,BL,Belt loader,7,63
+HYD-BL-013,HYD,BL,Belt loader,4,6
+HYD-BL-014,HYD,BL,Belt loader,1,57
+HYD-BL-015,HYD,BL,Belt loader,6,31
+HYD-BL-016,HYD,BL,Belt loader,10,9
+HYD-BL-017,HYD,BL,Belt loader,6,82
+HYD-BL-018,HYD,BL,Belt loader,7,80
+HYD-BL-019,HYD,BL,Belt loader,6,23
+HYD-BL-020,HYD,BL,Belt loader,12,59
+HYD-PBT-021,HYD,PBT,Pushback tug,3,32
+HYD-PBT-022,HYD,PBT,Pushback tug,7,51
+HYD-PBT-023,HYD,PBT,Pushback tug,5,53
+HYD-PBT-024,HYD,PBT,Pushback tug,11,54
+HYD-PBT-025,HYD,PBT,Pushback tug,10,31
+HYD-PBT-026,HYD,PBT,Pushback tug,12,76
+HYD-PBT-027,HYD,PBT,Pushback tug,1,73
+HYD-PBT-028,HYD,PBT,Pushback tug,1,7
+HYD-GPU-029,HYD,GPU,Ground power unit,2,47
+HYD-GPU-030,HYD,GPU,Ground power unit,9,66
+HYD-GPU-031,HYD,GPU,Ground power unit,10,73
+HYD-GPU-032,HYD,GPU,Ground power unit,10,53
+HYD-GPU-033,HYD,GPU,Ground power unit,8,62
+HYD-GPU-034,HYD,GPU,Ground power unit,8,82
+HYD-GPU-035,HYD,GPU,Ground power unit,5,90
+HYD-GPU-036,HYD,GPU,Ground power unit,5,36
+HYD-GPU-037,HYD,GPU,Ground power unit,1,45
+HYD-GPU-038,HYD,GPU,Ground power unit,12,45
+HYD-GPU-039,HYD,GPU,Ground power unit,2,65
+HYD-GPU-040,HYD,GPU,Ground power unit,5,68
+HYD-GPU-041,HYD,GPU,Ground power unit,3,82
+HYD-GPU-042,HYD,GPU,Ground power unit,7,13
+HYD-PS-043,HYD,PS,Passenger steps,6,64
+HYD-PS-044,HYD,PS,Passenger steps,3,40
+HYD-PS-045,HYD,PS,Passenger steps,11,72
+HYD-PS-046,HYD,PS,Passenger steps,14,15
+HYD-PS-047,HYD,PS,Passenger steps,9,40
+HYD-PS-048,HYD,PS,Passenger steps,10,82
+HYD-PS-049,HYD,PS,Passenger steps,4,30
+HYD-PS-050,HYD,PS,Passenger steps,4,33
+HYD-PS-051,HYD,PS,Passenger steps,11,79
+HYD-PS-052,HYD,PS,Passenger steps,1,13
+HYD-PS-053,HYD,PS,Passenger steps,13,56
+HYD-PS-054,HYD,PS,Passenger steps,8,52
+HYD-PS-055,HYD,PS,Passenger steps,8,7
+HYD-PS-056,HYD,PS,Passenger steps,13,35
+HYD-PS-057,HYD,PS,Passenger steps,8,25
+HYD-PS-058,HYD,PS,Passenger steps,6,29
+HYD-BT-059,HYD,BT,Baggage tractor,7,64
+HYD-BT-060,HYD,BT,Baggage tractor,6,2
+HYD-BT-061,HYD,BT,Baggage tractor,8,12
+HYD-BT-062,HYD,BT,Baggage tractor,5,13
+HYD-BT-063,HYD,BT,Baggage tractor,12,2
+HYD-BT-064,HYD,BT,Baggage tractor,6,53
+HYD-BT-065,HYD,BT,Baggage tractor,11,19
+HYD-BT-066,HYD,BT,Baggage tractor,6,87
+HYD-BT-067,HYD,BT,Baggage tractor,5,47
+HYD-BT-068,HYD,BT,Baggage tractor,8,71
+HYD-BT-069,HYD,BT,Baggage tractor,4,81
+HYD-BT-070,HYD,BT,Baggage tractor,6,79
+HYD-BT-071,HYD,BT,Baggage tractor,10,65
+HYD-BT-072,HYD,BT,Baggage tractor,14,75
+HYD-BT-073,HYD,BT,Baggage tractor,5,5
+HYD-BT-074,HYD,BT,Baggage tractor,6,90
+HYD-BT-075,HYD,BT,Baggage tractor,7,71
+HYD-BT-076,HYD,BT,Baggage tractor,6,52
+HYD-BT-077,HYD,BT,Baggage tractor,13,14
+HYD-BT-078,HYD,BT,Baggage tractor,12,2
+HYD-BT-079,HYD,BT,Baggage tractor,6,18
+HYD-BT-080,HYD,BT,Baggage tractor,7,88
+HYD-BT-081,HYD,BT,Baggage tractor,7,57
+HYD-BT-082,HYD,BT,Baggage tractor,7,15
+HYD-CHL-083,HYD,CHL,Catering high-loader,8,85
+HYD-CHL-084,HYD,CHL,Catering high-loader,3,6
+HYD-CHL-085,HYD,CHL,Catering high-loader,13,2
+HYD-CHL-086,HYD,CHL,Catering high-loader,6,36
+HYD-CHL-087,HYD,CHL,Catering high-loader,10,79
+HYD-CHL-088,HYD,CHL,Catering high-loader,9,42
+HYD-CHL-089,HYD,CHL,Catering high-loader,7,47
+HYD-CHL-090,HYD,CHL,Catering high-loader,11,69
+HYD-ACU-091,HYD,ACU,Air-conditioning unit,14,67
+HYD-ACU-092,HYD,ACU,Air-conditioning unit,13,33
+HYD-ACU-093,HYD,ACU,Air-conditioning unit,7,67
+HYD-ACU-094,HYD,ACU,Air-conditioning unit,13,7
+HYD-ACU-095,HYD,ACU,Air-conditioning unit,11,57
+HYD-ACU-096,HYD,ACU,Air-conditioning unit,10,50
+HYD-ACU-097,HYD,ACU,Air-conditioning unit,3,84
+HYD-ACU-098,HYD,ACU,Air-conditioning unit,5,77
+HYD-ACU-099,HYD,ACU,Air-conditioning unit,13,20
+HYD-ACU-100,HYD,ACU,Air-conditioning unit,14,85
+MAA-BL-001,MAA,BL,Belt loader,12,88
+MAA-BL-002,MAA,BL,Belt loader,8,5
+MAA-BL-003,MAA,BL,Belt loader,13,3
+MAA-BL-004,MAA,BL,Belt loader,2,9
+MAA-BL-005,MAA,BL,Belt loader,9,48
+MAA-BL-006,MAA,BL,Belt loader,6,44
+MAA-BL-007,MAA,BL,Belt loader,8,13
+MAA-BL-008,MAA,BL,Belt loader,11,94
+MAA-BL-009,MAA,BL,Belt loader,8,19
+MAA-BL-010,MAA,BL,Belt loader,11,63
+MAA-BL-011,MAA,BL,Belt loader,4,6
+MAA-BL-012,MAA,BL,Belt loader,14,42
+MAA-BL-013,MAA,BL,Belt loader,11,41
+MAA-BL-014,MAA,BL,Belt loader,6,17
+MAA-BL-015,MAA,BL,Belt loader,5,20
+MAA-BL-016,MAA,BL,Belt loader,6,67
+MAA-BL-017,MAA,BL,Belt loader,12,54
+MAA-BL-018,MAA,BL,Belt loader,2,18
+MAA-BL-019,MAA,BL,Belt loader,11,30
+MAA-BL-020,MAA,BL,Belt loader,7,11
+MAA-PBT-021,MAA,PBT,Pushback tug,2,19
+MAA-PBT-022,MAA,PBT,Pushback tug,7,63
+MAA-PBT-023,MAA,PBT,Pushback tug,9,27
+MAA-PBT-024,MAA,PBT,Pushback tug,14,57
+MAA-PBT-025,MAA,PBT,Pushback tug,10,5
+MAA-PBT-026,MAA,PBT,Pushback tug,6,10
+MAA-PBT-027,MAA,PBT,Pushback tug,5,87
+MAA-PBT-028,MAA,PBT,Pushback tug,8,73
+MAA-GPU-029,MAA,GPU,Ground power unit,6,70
+MAA-GPU-030,MAA,GPU,Ground power unit,5,68
+MAA-GPU-031,MAA,GPU,Ground power unit,9,68
+MAA-GPU-032,MAA,GPU,Ground power unit,12,88
+MAA-GPU-033,MAA,GPU,Ground power unit,4,64
+MAA-GPU-034,MAA,GPU,Ground power unit,10,15
+MAA-GPU-035,MAA,GPU,Ground power unit,14,21
+MAA-GPU-036,MAA,GPU,Ground power unit,8,76
+MAA-GPU-037,MAA,GPU,Ground power unit,2,48
+MAA-GPU-038,MAA,GPU,Ground power unit,10,52
+MAA-GPU-039,MAA,GPU,Ground power unit,14,14
+MAA-GPU-040,MAA,GPU,Ground power unit,8,89
+MAA-GPU-041,MAA,GPU,Ground power unit,14,81
+MAA-GPU-042,MAA,GPU,Ground power unit,11,22
+MAA-PS-043,MAA,PS,Passenger steps,9,18
+MAA-PS-044,MAA,PS,Passenger steps,6,72
+MAA-PS-045,MAA,PS,Passenger steps,6,56
+MAA-PS-046,MAA,PS,Passenger steps,8,61
+MAA-PS-047,MAA,PS,Passenger steps,10,60
+MAA-PS-048,MAA,PS,Passenger steps,13,89
+MAA-PS-049,MAA,PS,Passenger steps,7,15
+MAA-PS-050,MAA,PS,Passenger steps,9,60
+MAA-PS-051,MAA,PS,Passenger steps,1,76
+MAA-PS-052,MAA,PS,Passenger steps,7,35
+MAA-PS-053,MAA,PS,Passenger steps,10,62
+MAA-PS-054,MAA,PS,Passenger steps,4,14
+MAA-PS-055,MAA,PS,Passenger steps,8,34
+MAA-PS-056,MAA,PS,Passenger steps,9,38
+MAA-PS-057,MAA,PS,Passenger steps,2,77
+MAA-PS-058,MAA,PS,Passenger steps,7,89
+MAA-BT-059,MAA,BT,Baggage tractor,12,13
+MAA-BT-060,MAA,BT,Baggage tractor,2,70
+MAA-BT-061,MAA,BT,Baggage tractor,10,49
+MAA-BT-062,MAA,BT,Baggage tractor,3,53
+MAA-BT-063,MAA,BT,Baggage tractor,12,7
+MAA-BT-064,MAA,BT,Baggage tractor,8,68
+MAA-BT-065,MAA,BT,Baggage tractor,3,46
+MAA-BT-066,MAA,BT,Baggage tractor,14,28
+MAA-BT-067,MAA,BT,Baggage tractor,11,33
+MAA-BT-068,MAA,BT,Baggage tractor,1,46
+MAA-BT-069,MAA,BT,Baggage tractor,5,15
+MAA-BT-070,MAA,BT,Baggage tractor,6,35
+MAA-BT-071,MAA,BT,Baggage tractor,14,23
+MAA-BT-072,MAA,BT,Baggage tractor,5,91
+MAA-BT-073,MAA,BT,Baggage tractor,5,91
+MAA-BT-074,MAA,BT,Baggage tractor,9,38
+MAA-BT-075,MAA,BT,Baggage tractor,5,32
+MAA-BT-076,MAA,BT,Baggage tractor,5,60
+MAA-BT-077,MAA,BT,Baggage tractor,2,71
+MAA-BT-078,MAA,BT,Baggage tractor,1,71
+MAA-BT-079,MAA,BT,Baggage tractor,2,74
+MAA-BT-080,MAA,BT,Baggage tractor,1,57
+MAA-BT-081,MAA,BT,Baggage tractor,1,27
+MAA-BT-082,MAA,BT,Baggage tractor,2,54
+MAA-CHL-083,MAA,CHL,Catering high-loader,6,70
+MAA-CHL-084,MAA,CHL,Catering high-loader,5,91
+MAA-CHL-085,MAA,CHL,Catering high-loader,9,83
+MAA-CHL-086,MAA,CHL,Catering high-loader,13,63
+MAA-CHL-087,MAA,CHL,Catering high-loader,4,39
+MAA-CHL-088,MAA,CHL,Catering high-loader,13,37
+MAA-CHL-089,MAA,CHL,Catering high-loader,8,80
+MAA-CHL-090,MAA,CHL,Catering high-loader,8,7
+MAA-ACU-091,MAA,ACU,Air-conditioning unit,10,48
+MAA-ACU-092,MAA,ACU,Air-conditioning unit,3,63
+MAA-ACU-093,MAA,ACU,Air-conditioning unit,9,6
+MAA-ACU-094,MAA,ACU,Air-conditioning unit,2,83
+MAA-ACU-095,MAA,ACU,Air-conditioning unit,9,84
+MAA-ACU-096,MAA,ACU,Air-conditioning unit,3,92
+MAA-ACU-097,MAA,ACU,Air-conditioning unit,6,26
+MAA-ACU-098,MAA,ACU,Air-conditioning unit,13,60
+MAA-ACU-099,MAA,ACU,Air-conditioning unit,3,71
+MAA-ACU-100,MAA,ACU,Air-conditioning unit,12,63
